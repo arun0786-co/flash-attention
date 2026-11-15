@@ -1,0 +1,37 @@
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_ZN8standard7softmaxILb0EEEvPKfP6__halfi' for 'sm_75'
+ptxas info    : Function properties for _ZN8standard7softmaxILb0EEEvPKfP6__halfi
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 15 registers, used 1 barriers, 128 bytes smem, 372 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN8standard7softmaxILb1EEEvPKfP6__halfi' for 'sm_75'
+ptxas info    : Function properties for _ZN8standard7softmaxILb1EEEvPKfP6__halfi
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, used 1 barriers, 128 bytes smem, 372 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN8standard12softmax_gradEP6__halfPKfS3_im' for 'sm_75'
+ptxas info    : Function properties for _ZN8standard12softmax_gradEP6__halfPKfS3_im
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 20 registers, used 0 barriers, 392 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN5flash8backwardILb0EEEvPK6__halfS3_S3_S3_PKfS5_PfPS1_S7_if' for 'sm_75'
+ptxas info    : Function properties for _ZN5flash8backwardILb0EEEvPK6__halfS3_S3_S3_PKfS5_PfPS1_S7_if
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 209 registers, used 1 barriers, 432 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN5flash8backwardILb1EEEvPK6__halfS3_S3_S3_PKfS5_PfPS1_S7_if' for 'sm_75'
+ptxas info    : Function properties for _ZN5flash8backwardILb1EEEvPK6__halfS3_S3_S3_PKfS5_PfPS1_S7_if
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 206 registers, used 1 barriers, 432 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN5flash7forwardILb0EEEvPK6__halfS3_S3_PS1_Pfif' for 'sm_75'
+ptxas info    : Function properties for _ZN5flash7forwardILb0EEEvPK6__halfS3_S3_PS1_Pfif
+    8 bytes stack frame, 4 bytes spill stores, 4 bytes spill loads
+ptxas info    : Used 80 registers, used 1 barriers, 8 bytes cumulative stack size, 400 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN5flash7forwardILb1EEEvPK6__halfS3_S3_PS1_Pfif' for 'sm_75'
+ptxas info    : Function properties for _ZN5flash7forwardILb1EEEvPK6__halfS3_S3_PS1_Pfif
+    8 bytes stack frame, 16 bytes spill stores, 16 bytes spill loads
+ptxas info    : Used 80 registers, used 1 barriers, 8 bytes cumulative stack size, 400 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN5flash7to_halfEPKfP6__halfm' for 'sm_75'
+ptxas info    : Function properties for _ZN5flash7to_halfEPKfP6__halfm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 12 registers, used 0 barriers, 376 bytes cmem[0]
+ptxas info    : Compiling entry function '_ZN5flash7row_dotEPK6__halfS2_Pfm' for 'sm_75'
+ptxas info    : Function properties for _ZN5flash7row_dotEPK6__halfS2_Pfm
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 51 registers, used 0 barriers, 384 bytes cmem[0]
